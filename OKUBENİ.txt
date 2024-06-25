@@ -1,0 +1,6 @@
+İlk Önce ÖNCEÇALIŞTIR a çift tikla ve python'un yüklü olduğundan emin ol
+
+main.py' ye çift tıklayıp python ile aç
+
+İyi Eğlenceler!
+Kerem Kavuştu Tarafından 2024 :D
